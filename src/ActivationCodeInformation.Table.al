@@ -5,7 +5,7 @@ table 50151 "Activation Code Information"
     
     fields
     {
-        field(1;ActivationCode; Text[14])
+        field(1; ActivationCode; Text[14])
         {
             Caption = 'Activation Code';
             DataClassification = SystemMetadata;
