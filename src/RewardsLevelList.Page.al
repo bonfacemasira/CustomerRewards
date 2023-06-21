@@ -13,7 +13,7 @@ page 50153 "Rewards Level List"
         {
             repeater(Group)
             {
-                field(Level; Level)
+                field(Level; Rec.Level)
                 {
                     ApplicationArea = All;
                     Tooltip = 'Specifies the level of reward that the customer has at this point.';
